@@ -1,7 +1,7 @@
 ### Olá, me chamo Bruno Colaço 👋
 
 - 🔭 Atualmente sou desenvolvedor pleno na Rede D'Or  São Luiz
-- 🏆 Minha linguagem mais utilizada atualmente é Java/Springboot
+- 🏆 Minha linguagem mais utilizada atualmente é Java/Springboot e Node/TypeScript
 - 🌱 Estou estudando sobre React/Flutter
 
 
